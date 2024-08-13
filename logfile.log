@@ -18,3 +18,8 @@
 [2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:24] [listarTodos] los odontologos que hay actualmente son 
 [2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
 [2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:40:01] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:40:01] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:40:01] [ INFO ] [OdontologoDaoMemoria:24] [listarTodos] los odontologos que hay actualmente son 
+[2024-08-13 18:40:01] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:40:01] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}

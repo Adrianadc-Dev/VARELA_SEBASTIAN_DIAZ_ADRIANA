@@ -1,10 +1,11 @@
-package service;
+package test;
 
 import dao.impl.OdontologoDaoMemoria;
 import model.Odontologo;
 import org.apache.log4j.Logger;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import service.OdontologoService;
 
 import java.util.List;
 
