@@ -1,0 +1,20 @@
+[2024-08-13 18:07:59] [ INFO ] [DaoH2Odontologo:36] [guardar] Odontologo guardado: Odontologo{id=3, matricula=856, nombre='Ana', apellido='Torres'}
+[2024-08-13 18:08:00] [ INFO ] [DaoH2Odontologo:79] [listarTodos] Odontologo{id=1, matricula=123, nombre='JUAN', apellido='PEREZ'}
+[2024-08-13 18:08:00] [ INFO ] [DaoH2Odontologo:79] [listarTodos] Odontologo{id=2, matricula=456, nombre='PEDRO', apellido='RODRIGUEZ'}
+[2024-08-13 18:08:00] [ INFO ] [DaoH2Odontologo:79] [listarTodos] Odontologo{id=3, matricula=856, nombre='Ana', apellido='Torres'}
+[2024-08-13 18:21:24] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:21:24] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:21:24] [ INFO ] [OdontologoDaoMemoria:24] [listarTodos] los odontologos que hay actualmente son 
+[2024-08-13 18:21:24] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:21:24] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:30:52] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:30:52] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:30:52] [ INFO ] [OdontologoDaoMemoria:24] [listarTodos] los odontologos que hay actualmente son 
+[2024-08-13 18:30:52] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:30:52] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:31:52] [ INFO ] [OdontologoDaoMemoria:24] [listarTodos] los odontologos que hay actualmente son 
+[2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardadoOdontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
+[2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:24] [listarTodos] los odontologos que hay actualmente son 
+[2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=1, matricula=514, nombre='Sebastian', apellido='Varela'}
+[2024-08-13 18:32:41] [ INFO ] [OdontologoDaoMemoria:27] [listarTodos] Odontologo{id=2, matricula=544, nombre='Adriana', apellido='Diaz'}
